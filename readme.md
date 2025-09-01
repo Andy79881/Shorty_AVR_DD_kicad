@@ -7,4 +7,4 @@ Shorty is short circuit finder, usable for checking PCB, for example. Where norm
 
 Code Baseline:
 ---
-- Refer to Readme of [soldering_station_software](https://github.com/Andy79881/soldering_station_software).
+- Refer to Readme of [Shorty_AVR_DD]([https://github.com/Andy79881/Shorty_AVR_DD]).
